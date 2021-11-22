@@ -1,7 +1,35 @@
 /* styles.css */
+html {
+  background-color: bisque;
+  text-align: center;
+}
 
-div {
+a{
+color: cornflowerblue !important
+}
+
+.main{
     color: white;
-    background-color: black;
+    font-family: "Helvetica Neue", "Arial", sans-serif;
+    font-style: Regular;
+    font-weight: 100;
+    font-variant-ligatures: normal;
+    font-size: 2rem;
+    letter-spacing: 1px;
+    
   }
+  
+.main .title
+{
+  color: red;
+  font-family: "Helvetica Neue", "Arial", sans-serif;
+}
+
+.main .dog {
+  width: 250px;
+  height: 250px;  
+}
+
+a{
+  color: blueviolet;}
   
