@@ -1,18 +1,21 @@
 /* styles.css */
 html {
-  background-color: bisque;
+  background-color: rgb(73, 73, 68);
   text-align: center;
   font-family: "Helvetica Neue", "Arial", sans-serif;
+  box-sizing: content-box;
+  width: 55%;
+  margin: 0 auto;
 }
 
 a{
-color: cornflowerblue !important
+color: rgb(168, 193, 240) !important
 }
 
 
 .main{
-    border: 6px solid red;
-    color: white;
+    border: 6px solid rgb(241, 155, 97);  
+    color: rgb(240, 227, 227);
     font-style: Regular;
     font-weight: 100;
     font-variant-ligatures: normal;
@@ -23,15 +26,10 @@ color: cornflowerblue !important
   
 .main .title
 {
-  border: 6px solid blue;
-  color: red;
+  color: rgb(230, 132, 213);
 }
 
 .main .dog {
-  border: 6px dotted rgb(42, 5, 209);
   width: 250px;
   height: 250px;  
 }
-
-a{
-  color: blueviolet;}
