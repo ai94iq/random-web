@@ -2,6 +2,7 @@
 html {
   background-color: bisque;
   text-align: center;
+  font-family: "Helvetica Neue", "Arial", sans-serif;
 }
 
 a{
@@ -12,7 +13,6 @@ color: cornflowerblue !important
 .main{
     border: 6px solid red;
     color: white;
-    font-family: "Helvetica Neue", "Arial", sans-serif;
     font-style: Regular;
     font-weight: 100;
     font-variant-ligatures: normal;
@@ -25,7 +25,6 @@ color: cornflowerblue !important
 {
   border: 6px solid blue;
   color: red;
-  font-family: "Helvetica Neue", "Arial", sans-serif;
 }
 
 .main .dog {
@@ -36,4 +35,3 @@ color: cornflowerblue !important
 
 a{
   color: blueviolet;}
-  
