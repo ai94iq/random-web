@@ -7,8 +7,12 @@ html {
 a{
 color: cornflowerblue !important
 }
+* {
+  border: 4px solid green;
+}
 
 .main{
+    border: 6px solid red;
     color: white;
     font-family: "Helvetica Neue", "Arial", sans-serif;
     font-style: Regular;
@@ -21,11 +25,13 @@ color: cornflowerblue !important
   
 .main .title
 {
+  border: 6px solid blue;
   color: red;
   font-family: "Helvetica Neue", "Arial", sans-serif;
 }
 
 .main .dog {
+  border: 6px dotted rgb(42, 5, 209);
   width: 250px;
   height: 250px;  
 }
